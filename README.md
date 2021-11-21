@@ -117,7 +117,7 @@ sudo ./MPI3508-show
 CN: http://www.lcdwiki.com/zh/3.5inch_HDMI_Display-B  <br>
 EN: http://www.lcdwiki.com/3.5inch_HDMI_Display-B
     
-#THIS IS THE ONE YOU NEED!!!!!
+# THIS IS THE ONE YOU NEED!!!!!
 # MHS-3.5” RPi Display(MHS3528):
 ### Driver install:
 sudo ./MHS35-show
