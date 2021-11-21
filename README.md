@@ -117,10 +117,10 @@ EN: http://www.lcdwiki.com/3.5inch_HDMI_Display-B
     
 # MHS-3.5” RPi Display(MHS3528):
 ### Driver install:
-# sudo ./MHS35-show
+sudo ./MHS35-show
 ### WIKI:
-# CN: http://www.lcdwiki.com/zh/MHS-3.5inch_RPi_Display  <br>
-# EN:http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
+CN: http://www.lcdwiki.com/zh/MHS-3.5inch_RPi_Display  <br>
+EN:http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
 
 # MHS-3.5” RPi Display-B(MHS35XX):
 ### Driver install:
